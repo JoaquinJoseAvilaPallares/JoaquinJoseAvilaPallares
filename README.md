@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Joaquin Avila</h1>
 <h3 align="center">Soy ingeniero mecatrónico y desarrollador Full Stack</h3>
 
-- 🌱 I’m currently learning **Data Science y angular**
+- 🌱 I’m currently learning **Data Science, React js y angular**
 
 - 👨‍💻 All of my projects are available at [https://joaquinjoseavilapallares.github.io/Portafolio/](https://joaquinjoseavilapallares.github.io/Portafolio/)
 
